@@ -278,3 +278,6 @@ You will see the output "Test webpage in a persistent volume!"
 The StatefulSet restarts the Pod and reconnects the existing dedicated PVC to the new Pod ensuring that the data for that Pod is preserved.
 
 This Concludes our lab demonstration for “Configuring Persistent Storage for Google Kubernetes Engine”.
+
+
+Thank you :)
