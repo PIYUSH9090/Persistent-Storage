@@ -7,6 +7,8 @@ PersistentVolumes are storage that is available to a Kubernetes cluster. Persist
 ### Try out the code on Google Cloud Platform
 [![Open in Cloud Shell](http://gstatic.com/cloudssh/images/open-btn.png)](https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/GoogleCloudPlatform/training-data-analyst.git)
 
+NOTE : If you want to use your code editor, then you can.
+
 ### Connect to the lab GKE cluster
 
 In Cloud Shell, type the following command to set the environment variable for the zone and cluster name.
