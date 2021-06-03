@@ -2,6 +2,12 @@
 
 PersistentVolumes are storage that is available to a Kubernetes cluster. PersistentVolumeClaims enable Pods to access PersistentVolumes.
 
+Reference article link : https://link.medium.com/UD60rCQaDgb
+
+Explanation video link : https://drive.google.com/file/d/1sd8yknCbwnAlYRq1XY8-Li2_S66Sib_9/view?usp=sharing
+
+My Github repo link : https://github.com/PIYUSH9090/Persistent-Storage
+
 ## Task 1. Create PVs and PVCs
 
 ### Try out the code on Google Cloud Platform
